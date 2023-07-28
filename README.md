@@ -1,11 +1,11 @@
-<h1 align="left">Opa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Yan Gutberg estudante de Ciência da Computação. </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FagTI&color=yellow" alt="Profile views" /> </p>
+## Opaa, sou Yan Gutberg estudante de Ciência da Computação
 
 - 🔭 Estou atualmente trabalhando como dev mobile na [M. Dias Branco](https://mdiasbranco.com.br/quem-somos/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FagTI&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FagTI)](https://github.com/anuraghazra/github-readme-stats)
+<div>  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=FagTI&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FagTI&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
