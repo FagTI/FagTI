@@ -1,6 +1,6 @@
 ## Opaa, sou Yan Gutberg estudante de Ciência da Computação
 
-- 🔭 Estou atualmente trabalhando como dev mobile na [M. Dias Branco](https://mdiasbranco.com.br/quem-somos/)
+- 🔭 Estou atualmente trabalhando como desenvolvedor fullstack no Vortex, da UNIFOR - Universidade de Fortaleza
 
 <div>  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=FagTI&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
